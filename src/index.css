@@ -82,7 +82,7 @@ body {
   .noisy {
     @apply absolute inset-0 size-full;
     background-image: url("/images/noise.png");
-    background-size: 12.5% 12.5%;
+    background-size: 50% 50%;
     background-repeat: repeat;
   }
 
